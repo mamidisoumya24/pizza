@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#out{
+    border: solid 1px;
+    height: 640px;
+    background-image: url(pizza.jpg);
+    background-repeat: no-repeat;
+    background-size: 1400px 640px;
+}
+h1{
+    color: white;
+    font-size:  95px;
+    margin-top: 200px;
+    margin-top: 110px;
+}
+#register,#login{
+height: 30px;
+width: 120px;
+background-color: lightpink;
+}
+#register{
+    margin-left: 200px;
+}
+#register a,#login a{
+    color: darkblue;
+    font-size: 21px;
+    text-decoration: none;
+}
+#register:hover{
+    background-color: darkgrey;
+}
+#login:hover{
+    background-color:darkgrey
+}
